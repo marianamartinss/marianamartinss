@@ -1,7 +1,7 @@
 ## Oiii eu sou a Mariana Martins
 
-* Estou no 7º periodo da faculdade 📚
-* Estudando Python / Banco de dados 📊
+* Graduada em Sistema de Informação 📚
+* Estudando Python / Banco de dados / DBA 📊
 
 
 <div style="display: inline_block"><br>
